@@ -8,3 +8,4 @@ also some changes in maziar branch
 change made in abed branch
 again change made in abed branch
 
+fix bugs in master file for the version 0.0.2
